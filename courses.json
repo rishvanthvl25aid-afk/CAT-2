@@ -1,0 +1,16 @@
+[
+    {
+        "courseCode": "101",
+        "title": "oiud",
+        "instructor": "ijwe",
+        "credits": 3,
+        "maxSeats": 4
+    },
+    {
+        "courseCode": "2132",
+        "title": "3221ewd",
+        "instructor": "edewde",
+        "credits": 3,
+        "maxSeats": 13
+    }
+]
