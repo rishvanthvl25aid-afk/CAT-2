@@ -1,1 +1,2 @@
-# CAT-2
+# golang-cat2
+cat 2
